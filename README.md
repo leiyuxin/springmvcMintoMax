@@ -1,0 +1,6 @@
+# springmvcMintoMax
+此项目学习spring mvc 从最少的配置开始
+一点一点的增加
+让springmvc的内容越来越丰富
+帮助理清springmvc的内容
+使用的构建工具是maven
